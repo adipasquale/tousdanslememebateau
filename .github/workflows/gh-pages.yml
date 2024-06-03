@@ -1,48 +1,40 @@
-# If you’d like to deploy this to GitHub pages, rename this
-# file to `gh-pages.yml` and read the mini-tutorial on
-# https://www.11ty.dev/docs/deployment/#deploy-an-eleventy-project-to-github-pages
-name: Deploy to GitHub Pages
-
+name: Eleventy Build
 on:
   push:
     branches:
       - main
-  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
 
 jobs:
-  deploy:
-    runs-on: ubuntu-22.04
-    permissions:
-      contents: write
-    concurrency:
-      group: ${{ github.workflow }}-${{ github.ref }}
+  build:
+    runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-
-      - name: Setup Node
-        uses: actions/setup-node@v4
+      - uses: actions/checkout@master
+      - name: Setup Pages
+        uses: actions/configure-pages@v4
+      - uses: actions/setup-node@v4
         with:
-          node-version: '20'
-
-      - name: Cache npm
-        uses: actions/cache@v4
+          node-version: 21
+          cache: npm
+      - run: npm ci
+      - run: npx @11ty/eleventy
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
         with:
-          path: ~/.npm
-          key: ${{ runner.os }}-node-${{ hashFiles('**/package.json') }}
+          path: _site
 
-      - name: Cache Eleventy .cache
-        uses: actions/cache@v4
-        with:
-          path: ./.cache
-          key: ${{ runner.os }}-eleventy-fetch-cache
-
-
-      - run: npm install
-      - run: npm run build-ghpages
-
-      - name: Deploy
-        uses: peaceiris/actions-gh-pages@v4
-        if: github.ref == 'refs/heads/main'
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./_site
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    needs: build
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/deploy-pages@v4
+        name: Deploy to GH pages
+        id: deployment
