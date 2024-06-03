@@ -4,6 +4,6 @@ Mini-Transat de Gavino Puggino avec SOS Méditerranée
 
 https://www.tousdanslememebateau.net/
 
-Installation : `npm install`
+Installation : `make install`
 
-Local : `npm run start`
+Local : `make dev`
