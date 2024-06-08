@@ -1,7 +1,7 @@
 ---
 layout: layouts/base.njk
 eleventyNavigation:
-  key: Accueil
+  key: Le projet
   order: 1
 numberOfLatestPostsToShow: 3
 ---
