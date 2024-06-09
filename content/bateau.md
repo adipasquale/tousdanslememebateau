@@ -1,7 +1,7 @@
 ---
 layout: layouts/base.njk
 eleventyNavigation:
-  key: Le bateau
+  title: Le bateau
   order: 3
 ---
 

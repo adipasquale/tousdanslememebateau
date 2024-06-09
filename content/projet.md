@@ -1,7 +1,6 @@
 ---
-layout: layouts/base.njk
 eleventyNavigation:
-  key: Le projet
+  title: Le projet
   order: 1
 ---
 

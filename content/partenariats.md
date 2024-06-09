@@ -1,7 +1,6 @@
 ---
-layout: layouts/base.njk
 eleventyNavigation:
-  key: Partenariats
+  title: Partenariats
   order: 5
 ---
 

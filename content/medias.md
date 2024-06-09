@@ -1,7 +1,6 @@
 ---
-layout: layouts/base.njk
 eleventyNavigation:
-  key: Médias
+  title: Médias
   order: 6
 ---
 

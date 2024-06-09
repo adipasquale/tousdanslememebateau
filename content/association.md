@@ -1,7 +1,7 @@
 ---
 layout: layouts/base.njk
 eleventyNavigation:
-  key: L’association
+  title: L’association
   order: 4
 ---
 

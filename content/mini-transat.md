@@ -1,7 +1,6 @@
 ---
-layout: layouts/base.njk
 eleventyNavigation:
-  key: La Mini Transat
+  title: La Mini Transat
   order: 7
 ---
 

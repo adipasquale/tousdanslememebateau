@@ -1,7 +1,6 @@
 ---
-layout: layouts/base.njk
 eleventyNavigation:
-  key: Accueil
+  title: Accueil
   order: 1
 ---
 

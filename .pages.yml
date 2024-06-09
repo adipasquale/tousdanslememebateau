@@ -8,6 +8,24 @@ content:
     path: content
     subfolders: false
     format: yaml-frontmatter
+    exclude:
+      - 404.md
     fields:
       - name: body
         type: rich-text
+      - name: eleventyNavigation
+        type: object
+        fields:
+          - name: title
+            type: string
+            required: true
+          - name: order
+            type: number
+            required: true
+    view:
+      fields:
+        - eleventyNavigation.order
+        - eleventyNavigation.title
+      primary: eleventyNavigation.title
+      sort:
+        - eleventyNavigation.order
