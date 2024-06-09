@@ -1,0 +1,9 @@
+media:
+  input: content/images
+  output: /images
+content:
+  - name: pages
+    label: Pages
+    type: collection
+    path: content
+    subfolders: false
