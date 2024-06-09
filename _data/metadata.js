@@ -1,4 +1,4 @@
-module.exports = {
+export default {
 	title: "Tous dans le même bateau",
 	url: "https://www.tousdanslememebateau.net/",
 	language: "fr",

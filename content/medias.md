@@ -2,8 +2,7 @@
 layout: layouts/base.njk
 eleventyNavigation:
   key: Médias
-  order: 3
+  order: 6
 ---
-# Médias
 
-Plein d’articles de presse à venir
+# Médias

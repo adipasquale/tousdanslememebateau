@@ -82,7 +82,7 @@ a[href] {
 	color: var(--text-color-link);
 }
 a[href]:visited {
-	color: var(--text-color-link-visited);
+	color: var(--text-color-link);
 }
 a[href]:hover,
 a[href]:active {
@@ -162,6 +162,7 @@ header {
 /* Nav */
 .nav {
 	display: flex;
+	flex-wrap: wrap;
 	padding: 0;
 	margin: 0;
 	list-style: none;
@@ -267,4 +268,11 @@ a[href].header-anchor:focus,
 
 h2 + .header-anchor {
 	font-size: 1.5em;
+}
+
+
+/* Images */
+main img {
+	max-width: 100%;
+	height: auto;
 }

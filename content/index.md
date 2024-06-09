@@ -1,10 +1,13 @@
 ---
 layout: layouts/base.njk
 eleventyNavigation:
-  key: Le projet
+  key: Accueil
   order: 1
-numberOfLatestPostsToShow: 3
 ---
+
+Un petit bateau pour un grand défi !
+
+![bateau](/images/entrainement.jpg)
 
 C’est avec la volonté d’associer ma pratique de la voile de compétition à des valeurs humaines en
 accord avec ma vision du monde, que j’ai décidé de porter un projet sportif aux couleurs de SOS
