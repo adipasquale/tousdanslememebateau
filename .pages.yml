@@ -25,7 +25,7 @@ content:
             required: true
       - name: body
         type: rich-text
-    view:
-      fields: [eleventyNavigation.order, eleventyNavigation.title]
-      primary: eleventyNavigation.title
-      sort: [eleventyNavigation.order]
+    # view:
+    #   fields: ["eleventyNavigation.order", "eleventyNavigation.title"]
+    #   primary: "eleventyNavigation.title"
+    #   sort: ["eleventyNavigation.order"]
