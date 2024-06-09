@@ -1,4 +1,7 @@
 ---
+eleventyNavigation:
+  title: Le skipper
+  order: 2
 ---
 # Le skipper
 
