@@ -7,7 +7,7 @@ eleventyNavigation:
 
 Navigateur et humanitaire
 
-![](/images/IMG-20230802-WA0041.jpg)
+![](/images/gavino.jpg)
 
 Avec un parcours professionnel allant du milieu artistique au maritime en passant par l'humanitaire, j'ai toujours été ouvert sur le monde, sensible aux problématiques sociales et géopolitiques. Après ma carrière de musicien, je me suis formé à la logistique humanitaire d'urgence. Cela m'a amené à travailler sur le terrain avec Médecins Sans Frontières et en mer pour SOS Méditerranée à bord de l’Ocean Viking. Depuis ma reconversion dans le milieu de la voile professionnelle, je cherche à toujours allier mes activités avec des projets qui font sens, en accord avec mes convictions et ma vision du monde.
 
