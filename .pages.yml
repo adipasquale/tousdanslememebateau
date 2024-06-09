@@ -11,17 +11,20 @@ content:
     exclude:
       - 404.md
     fields:
-      - name: body
-        type: rich-text
       - name: eleventyNavigation
+        label: Navigation
         type: object
         fields:
           - name: title
+            label: Titre
             type: string
             required: true
           - name: order
+            label: "Position dans le menu : 1 en premier, 2 en second..."
             type: number
             required: true
+      - name: body
+        type: rich-text
     view:
       fields:
         - eleventyNavigation.order
