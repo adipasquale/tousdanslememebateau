@@ -7,3 +7,7 @@ content:
     type: collection
     path: content
     subfolders: false
+    format: yaml-frontmatter
+    fields:
+      - name: body
+        type: rich-text
