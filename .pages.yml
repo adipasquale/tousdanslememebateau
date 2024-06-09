@@ -26,9 +26,6 @@ content:
       - name: body
         type: rich-text
     view:
-      fields:
-        - eleventyNavigation.order
-        - eleventyNavigation.title
+      fields: [eleventyNavigation.order, eleventyNavigation.title]
       primary: eleventyNavigation.title
-      sort:
-        - eleventyNavigation.order
+      sort: [eleventyNavigation.order]
