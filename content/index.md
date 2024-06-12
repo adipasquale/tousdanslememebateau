@@ -17,10 +17,10 @@ C’est un défi sportif audacieux auquel j’ai envie d’ajouter une dimension
 
 Pour cela j’ai besoin de vous et de votre soutien !
 
+![](/images/pi_one_1.jpg)
+
 Devenez partenaire et embarquez aux côtés de SOS Méditerranée pour un projet sportif inédit qui véhicule des valeurs humaines et de solidarité !
 
 Test test
-
-![](/images/pi_one_1.jpg)
 
 khkhk
