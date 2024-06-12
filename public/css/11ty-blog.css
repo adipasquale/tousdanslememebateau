@@ -48,12 +48,18 @@ body {
 	font-family: var(--font-family);
 	color: var(--text-color);
 	background-color: var(--background-color);
+	min-height: 100vh;
 }
 html {
 	overflow-y: scroll;
 }
 body {
 	max-width: 40em;
+	display: flex;
+	flex-direction: column;
+}
+body main {
+	flex: 1;
 }
 
 /* https://www.a11yproject.com/posts/how-to-hide-content/ */
@@ -98,11 +104,24 @@ main :first-child {
 
 header {
 	border-bottom: 1px dashed var(--color-gray-20);
+	position: sticky;
+	top: 0;
+	background-color: var(--background-color);
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
 }
 header:after {
 	content: "";
 	display: table;
 	clear: both;
+}
+header a.menu-link {
+	font-size: 2rem;
+}
+header .title {
+	flex: 1;
+	text-align: center;
 }
 
 .links-nextprev {
@@ -155,27 +174,25 @@ header {
 	font-weight: 700;
 	margin-right: 2em;
 }
-.home-link:link:not(:hover) {
-	text-decoration: none;
-}
 
 /* Nav */
-.nav {
-	display: flex;
-	flex-wrap: wrap;
-	padding: 0;
+nav {
+	display: none;
+	padding: 1rem;
 	margin: 0;
 	list-style: none;
+	background-color: var(--background-color);
+}
+nav[data-open] {
+	display: block;
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100vw;
+	height: 100vh;
 }
 .nav-item {
-	display: inline-block;
 	margin-right: 1em;
-}
-.nav-item a[href]:not(:hover) {
-	text-decoration: none;
-}
-.nav a[href][aria-current="page"] {
-	text-decoration: underline;
 }
 
 /* Posts list */
@@ -275,4 +292,17 @@ h2 + .header-anchor {
 main img {
 	max-width: 100%;
 	height: auto;
+}
+
+
+footer {
+	/* display: flex; */
+	background: #ccc;
+	padding: 1rem;
+	text-align: center;
+	/* justify-content: center; */
+}
+
+footer div {
+	margin: 0 0 1rem 0;
 }

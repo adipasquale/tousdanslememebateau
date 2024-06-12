@@ -10,28 +10,45 @@
 		<link rel="alternate" href="/feed/feed.json" type="application/json" title="{{ metadata.title }}">
 		<meta name="generator" content="{{ eleventy.generator }}">
 		<link rel="stylesheet" href="/css/11ty-blog.css">
+
+		<script src="/js/main.js" defer></script>
 	</head>
 	<body>
-		<a href="#skip" class="visually-hidden">Aller au contenu principal</a>
-
 		<header>
-			<a href="/" class="home-link">{{ metadata.title }}</a>
+			<div class="title">
+				<a href="/" class="home-link">{{ metadata.title }}</a>
+			</div>
+			<div>
+				<a class="menu-link js-menu-toggle">
+					☰
+				</a>
+			</div>
 			{#- Read more about `eleventy-navigation` at https://www.11ty.dev/docs/plugins/navigation/ #}
+		</header>
+
+		<main id="skip">
 			<nav>
-				<h2 class="visually-hidden">Navigation principale</h2>
+				<h2>Menu</h2>
+				<button class="js-menu-toggle">Fermer</button>
+
 				<ul class="nav">
 				{%- for entry in collections.all | eleventyNavigation %}
 					<li class="nav-item"><a href="{{ entry.url }}"{% if entry.url == page.url %} aria-current="page"{% endif %}>{{ entry.title }}</a></li>
 				{%- endfor %}
 				</ul>
-			</nav>
-		</header>
 
-		<main id="skip">
+				<a href="/contact">
+					Contact
+				</a>
+			</nav>
+
 			{{ content | safe }}
 		</main>
 
-		<footer></footer>
+		<footer>
+			<div>Tous dans le même bateau</div>
+			<div><a href="/contact">Contact</a></div>
+		</footer>
 
 		<!-- This page `{{ page.url | htmlBaseUrl }}` was built on {% currentBuildDate %} -->
 	</body>

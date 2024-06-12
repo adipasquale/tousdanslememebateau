@@ -1,6 +1,6 @@
 ---
 eleventyNavigation:
-  title: Le skipper
+  title: Le skipper et son bateau
   order: 2
 ---
 # Le skipper
@@ -20,13 +20,62 @@ Navigateur, bricoleur et touche à tout, j’ai fait du bateau un mode de vie.
 ## Quelques dates
 
 *   2017 : Formé aux métiers de l’humanitaire par Bioforce
-    
+
 *   2017 – 2019 : Logisticien expatrié pour Médecins Sans Frontières
-    
+
 *   2020 – 2021 : Logisticien / Matelot pour SOS MEDITERRANEE
-    
+
 *   2021 – 2023 : Matelot de pont, second puis second capitaine sur navires de 6 à 32m en Méditerranée et en Atlantique
-    
+
 *   2023 : Diplômé d’un Capitaine 200 module voile - Propriétaire d’un mini 6.5 Pogo 1
-    
+
 *   2024 : Technicien nautique pour Team Winds - Matelot puis Capitaine sun voilier de 19 m
+
+# Le bateau : POGO 2
+
+Véritable machine à avaler des milles au large, le POGO 2 est un voilier robuste et insubmersible de 6,50 mètres construit par le chantier français Pogo Structures. Ce voilier, de réputation solide et performante, à gagné toutes les courses entre 2003 et 2011. Maintenant un peu « vintage », il garde des performances honorables qui permettent de participer sereinement aux courses du circuit Mini et à la Mini transat. Le Pogo 2 est « LE » petit bateau de course au large, marin et très toilé. Il permet d'assurer la sécurité du skipper par sa grande fiabilité et sa stabilité tout en étant capable de glissades impressionnantes sur les allures portantes (vent arrière).
+
+![](/images/pogo_2.png)
+
+Le choix de ce support est motivé par différentes raisons :
+
+*   Son coût d'achat raisonnable (environ 30K)
+
+*   Sa simplicité de réparation et la disponibilité des pièces de rechange
+
+*   Sa fiabilité de construction
+
+*   Ses performances toujours d'actualité
+
+
+## Caractéristiques techniques :
+
+*   Longueur de coque : 6,50 m
+
+*   Longueur flottaison : 6,50 m
+
+*   Largeur : 3 m
+
+*   Poids lège : 1000 kg
+
+*   Lest : 430 Kg
+
+*   Tirant d'eau : 1,60 m
+
+*   Catégorie B
+
+*   Insubmersible
+
+*   Grand voile : 25 m2
+
+*   Génois: 18 m2
+
+*   Solent : 12 m2
+
+*   Spimaxi : 70 m2
+
+*   Bout dehors orientable
+
+*   Architecte:
+
+*   FINOT-CONQ et associés

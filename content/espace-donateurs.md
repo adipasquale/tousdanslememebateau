@@ -1,6 +1,6 @@
 ---
 eleventyNavigation:
-  title: Partenariats
+  title: Espace donateurs
   order: 5
 ---
 
