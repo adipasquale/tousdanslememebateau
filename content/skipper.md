@@ -53,6 +53,8 @@ Le choix de ce support est motivé par différentes raisons :
 *   Ses performances toujours d'actualité
     
 
+![](/images/pogo2_3.jpg)
+
 ## Caractéristiques techniques :
 
 *   Longueur de coque : 6,50 m
