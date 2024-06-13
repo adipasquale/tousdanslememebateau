@@ -1,7 +1,7 @@
 ---
 eleventyNavigation:
   title: Le skipper et le bateau
-  order: 2
+  order: 3
 ---
 # Le skipper
 
