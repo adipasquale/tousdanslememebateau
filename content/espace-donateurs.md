@@ -3,6 +3,6 @@ eleventyNavigation:
   title: Espace donateurs
   order: 5
 ---
-# Dons et mécénat
+Contribuer en tant que donateur ou partenaire c'est porter des valeurs humaines à travers un projet sportif audacieux!
 
-# Sponsoring et partenariat
+Le voilier est le véhicule promotionnel qui affiche votre soutien et vos couleurs pour créer une vague solidaire du monde maritime.
