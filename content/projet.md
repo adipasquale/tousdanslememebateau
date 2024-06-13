@@ -50,3 +50,15 @@ Des rêves naissent, de l’appréhension aussi. Je me dis que je ne serais pas 
 Les deux mois qui ont suivi se sont enchaînés rapidement entre rendez-vous, travaux de structurations, d’estimation de budgets, et au gré de rencontres avec les copains, en soutien. Enfin, finalement, ça y est, “Tous dans le même bateau” a vu le jour !
 
 # Les objectifs
+
+#### Collecter les fonds pour:
+
+1.  Achat d'un bateau compétitif en Janvier 2025
+    
+2.  Lancement officiel du projet en Juin 2025 à l'occasion de la MASSILIA OFFSHORE avec baptême du bateau
+    
+3.  Qualification du circuit "hors course" de 1000 milles en juillet/août 2025
+    
+4.  Participation au circuit complet de courses en Méditerranée en 2026 et qualification pour la Mini Transat 2027
+    
+5.  Participation au circuit de courses en Atlantique et prendre le départ de la Mini Transat en Septembre 2027
