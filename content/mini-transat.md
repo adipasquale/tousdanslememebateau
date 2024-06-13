@@ -1,9 +1,8 @@
 ---
 eleventyNavigation:
   title: La Mini Transat
-  order: 7
+  order: 3
 ---
-
 # La Mini Transat
 
 ## La course finale
