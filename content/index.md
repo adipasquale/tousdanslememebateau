@@ -3,7 +3,4 @@ eleventyNavigation:
   title: Accueil
   order: 1
 ---
-
-Un petit bateau pour un grand défi !
-
-![bateau](/images/entrainement.jpg)
+<h1 style="text-align: center"><em>Un petit bateau pour un grand défi !</em></h1>
