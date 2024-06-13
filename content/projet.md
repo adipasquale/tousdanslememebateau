@@ -1,7 +1,7 @@
 ---
 eleventyNavigation:
   title: Le projet
-  order: 1
+  order: 2
 ---
 # En bref
 
