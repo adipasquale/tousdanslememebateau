@@ -1,7 +1,7 @@
 ---
 eleventyNavigation:
   title: La Mini Transat
-  order: 3
+  order: 4
 ---
 # La Mini Transat
 
