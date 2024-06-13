@@ -3,5 +3,6 @@ eleventyNavigation:
   title: Espace donateurs
   order: 5
 ---
+# Dons et mécénat
 
-# Espace partenariats / donateurs
+# Sponsoring et partenariat
