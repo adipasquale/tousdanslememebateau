@@ -15,6 +15,8 @@ J’ai 45 ans, un esprit d'initiative et du pragmatisme. J’aime particulièrem
 
 Navigateur, bricoleur et touche à tout, j’ai fait du bateau un mode de vie.
 
+![](/images/skipper_3.jpg)
+
 “Tous dans le même bateau” est un projet sportif audacieux qui fait écho avec ma personnalité en faisant appel à de multiples compétences acquises au cours de mon parcours. Je veux mettre mes compétences de marin, d’humanitaire et de vie au service d’un projet sportif inédit qui véhicule des valeurs humaines.
 
 ## Quelques dates
