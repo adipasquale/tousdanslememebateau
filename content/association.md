@@ -1,7 +1,7 @@
 ---
 eleventyNavigation:
   title: L’association et statuts
-  order: 4
+  order: 7
 ---
 # L’association
 
