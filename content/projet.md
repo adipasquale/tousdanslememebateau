@@ -3,6 +3,7 @@ eleventyNavigation:
   title: Le projet
   order: 1
 ---
+# En bref
 
 C’est avec la volonté d’associer ma pratique de la voile de compétition à des valeurs humaines en accord avec ma vision du monde, que j’ai décidé de porter un projet sportif aux couleurs de SOS Méditerranée.
 
@@ -10,11 +11,7 @@ L’objectif est de participer au circuit « Mini » de course au large à bord 
 
 En apportant à SOS Méditerranée une présence sur les pontons de départ et d’arrivée des courses, dans les ports et évènements nautiques, le sujet du devoir de solidarité du sauvetage maritime humanitaire ne pourra plus être ignoré par le monde de la course au large.
 
-C’est un défi sportif audacieux auquel j’ai envie d’ajouter une dimension humanitaire qui fait sens avec mon engagement auprès de l’organisation et mon devoir de marin professionnel.
-
-Pour cela j’ai besoin de vous et de votre soutien !
-
-Devenez partenaire et embarquez aux côtés de SOS Méditerranée pour un projet sportif inédit qui véhicule des valeurs humaines et de solidarité !
+C’est un défi sportif audacieux auquel j’ai envie d’ajouter une dimension humaine qui fait sens avec mon engagement auprès de l’organisation et mon devoir de marin professionnel.
 
 # Pourquoi ce projet ?
 
@@ -51,3 +48,5 @@ J’entreprends d’écrire un projet. Accompagné d’une précieuse aide, je m
 Des rêves naissent, de l’appréhension aussi. Je me dis que je ne serais pas à la hauteur, que ce n’est pas viable. Pourtant, un matin où je m’apprête à naviguer sur un Class40, j’envoie sans trop y réfléchir un SMS à Sabine qui travaille chez SOS. Mon projet pourrait-il les intéresser ? “On se voit dans un café et tu me parleras de ton projet”
 
 Les deux mois qui ont suivi se sont enchaînés rapidement entre rendez-vous, travaux de structurations, d’estimation de budgets, et au gré de rencontres avec les copains, en soutien. Enfin, finalement, ça y est, “Tous dans le même bateau” a vu le jour !
+
+# Les objectifs
