@@ -22,10 +22,11 @@ export default function (eleventyConfig) {
 		extensions: "html",
 		formats: ["webp", "jpeg"],
 		// widths: [540, 720, 1080]
-		// defaultAttributes: {
-		// 	loading: "lazy",
-		// 	decoding: "async",
-		// },
+		defaultAttributes: {
+			// 	loading: "lazy",
+			// 	decoding: "async",
+			alt: "Tous dans le même bateau",
+		},
 	});
 
 	// Filters
