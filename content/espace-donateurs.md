@@ -21,4 +21,4 @@ Le voilier sera le véhicule promotionnel qui affichera votre engagement et votr
 
 C’est bien plus qu’un investissement financier, c’est un engagement moral en faveur du sauvetage en mer pour tous !
 
-Un espace d’affichage à hauteur de l’investissement est disponible sur la grand voile du bateau.
+Un espace d’affichage est disponible sur la grand voile du bateau et le tableau arrière du voilier.
