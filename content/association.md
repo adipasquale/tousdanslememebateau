@@ -3,7 +3,7 @@ eleventyNavigation:
   title: L’association et statuts
   order: 7
 ---
-# L’association
+<h1 style="text-align: center">L’association</h1>
 
 Association à but **non lucratif** loi 1901, « Tous dans le même bateau » a pour mission de servir le projet en lui apportant un cadre juridique, administratif et financier.
 
