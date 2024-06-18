@@ -36,7 +36,7 @@ C’est bien plus qu’un investissement financier, c’est un engagement moral 
 
 Des supports : presse nationale, régionale, médias papiers ou internet (Voiles & Voiliers, Course au large, Adonnante, Sea sail surf, Libération, le Monde, le Figaro, VSD, La Provence et autres) mais aussi FRANCE 3 Pays de Loire, RTL, France Bleue.
 
-<h4 style="text-align: center">Afin d'établir un partenariat "gagnant-gagnant" correspondant à vos attentes et en fonction de votre investissement, veuillez nous contacter.</h4>
+<h4 style="text-align: center">Afin d'établir un partenariat "gagnant-gagnant" correspondant à vos attentes et à hauteur de votre investissement, veuillez nous contacter.</h4>
 
 L’article 39-1-7 du Code Général des Impôts stipule que : _« constituent des charges déductibles, les dépenses engagées dans le cadre de manifestations de caractère philanthropique, éducatif, scientifique, social, humanitaire, sportif, familial, culturel ou concourant à la mise en valeur du patrimoine artistique, à la défense de l’environnement naturel ou à la diffusion de la culture, de la langue et des connaissances scientifiques françaises, lorsqu’elles sont exposées dans l’intérêt direct de l’exploitation. »_
 
