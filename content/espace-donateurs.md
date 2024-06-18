@@ -21,6 +21,8 @@ Le voilier sera le véhicule promotionnel qui affichera votre soutien à SOS Mé
 
 C’est bien plus qu’un investissement financier, c’est un engagement moral en faveur du sauvetage en mer pour tous !
 
+<p style="text-align: center"><img src="/images/village.jpg"></p>
+
 À titre indicatif, l’édition de la Transat 6.50 2021, c’est :
 
 *   6 millions de pages lues et 225 000 visiteurs sur le site internet de la course.
@@ -36,6 +38,6 @@ C’est bien plus qu’un investissement financier, c’est un engagement moral 
 
 Des supports : presse nationale, régionale, médias papiers ou internet (Voiles & Voiliers, Course au large, Adonnante, Sea sail surf, Libération, le Monde, le Figaro, VSD, La Provence et autres) mais aussi FRANCE 3 Pays de Loire, RTL, France Bleue.
 
-Vivez et faites vivre l’ambiance des départs, arrivées et villages de course à vos collaborateurs, clients, salariés qui deviennent les premiers supporters de votre bateau
+Vivez et faites vivre l’ambiance des départs, arrivées et villages de course à vos collaborateurs, clients, salariés qui deviennent les premiers supporters de votre bateau.
 
 Un espace d’affichage est disponible sur la grand voile du bateau et le tableau arrière du voilier.
