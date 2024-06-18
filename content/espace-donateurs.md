@@ -5,6 +5,8 @@ eleventyNavigation:
 ---
 <h3 style="text-align: center">La course au large est une plateforme formidable de visibilité!</h3>
 
+<p style="text-align: center"><img src="/images/mini_logo_sos_OK.png"></p>
+
 ### Donateurs, inscrivez votre nom sur le bateau!
 
 Donner sans contrepartie pour ce projet c’est s’engager dans un acte militant en choisissant d’offrir de la visibilité à SOS Méditerranée.
