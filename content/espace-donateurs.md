@@ -5,7 +5,7 @@ eleventyNavigation:
 ---
 <h3 style="text-align: center">La course au large est une plateforme formidable de visibilité!</h3>
 
-Dons et mécénat
+### Donateurs, inscrivez votre nom sur le bateau!
 
 Donner sans contrepartie pour ce projet c’est s’engager dans un acte militant en choisissant d’offrir de la visibilité à SOS Méditerranée.
 
@@ -13,7 +13,7 @@ Ensemble relevons ce **« grand défi »** pour faire de ce **« petit bateau
 
 Chaque donateur verra son nom inscrit sur le « roof » du bateau car on est **« Tous dans le même bateau »** !
 
-#### Devenir partenaire
+### Partenaires, affichez vous pour un projet sportif solidaire!
 
 Soutenir le projet est une occasion unique d’associer votre entreprise à une image de solidarité. Ce partenariat offre une visibilité internationale qui s’inscrit dans la durée.
 
