@@ -38,4 +38,4 @@ Des supports : presse nationale, régionale, médias papiers ou internet (Voil
 
 #### L'ensemble des prestations proposées à mes partenaires: conférences, sorties en mer représentants, soirées privées, séminaires d’entreprise, communication sur les réseaux sociaux, rencontre de vos employés, etc...
 
-<p style="text-align: center"><img src="https://usercontent.one/wp/www.hugoaularge.fr/wp-content/uploads/2021/02/offres.png" alt="" class="wp-image-1867" style="box-sizing: border-box; height: auto; max-width: 100%; border: 0px; vertical-align: bottom; display: inline-block; margin: 0px auto; border-radius: inherit; color: rgb(85, 85, 85); font-family: Roboto, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;" width="478" height="250"></p>
+<p style="text-align: center"><img src="/images/tableau_presta_ok.jpg"></p>
