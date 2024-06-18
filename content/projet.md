@@ -3,7 +3,7 @@ eleventyNavigation:
   title: Le projet
   order: 2
 ---
-# En bref
+<h1 style="text-align: center">En bref</h1>
 
 C’est avec la volonté d’associer ma pratique de la voile de compétition à des valeurs humaines en accord avec ma vision du monde, que j’ai décidé de porter un projet sportif aux couleurs de SOS Méditerranée.
 
@@ -13,7 +13,7 @@ En apportant à **SOS Méditerranée** une présence sur les pontons de départ 
 
 C’est un défi sportif audacieux auquel j’ai envie d’ajouter une dimension humaine qui fait sens avec mon engagement auprès de l’organisation et mon devoir de marin professionnel.
 
-# Pourquoi ce projet ?
+<h1 style="text-align: center">Pourquoi&nbsp;ce projet&nbsp;?</h1>
 
 Après 2 ans de missions humanitaires au sein de Médecins sans frontières en Amérique Latine et en Afrique, je commence en 2020 à travailler pour SOS Méditerranée à bord de l’Ocean Viking. Pas simple comme premier embarquement quand la pandémie Covid19 complique lourdement la logistique et le travail de sauvetage.
 
@@ -37,7 +37,7 @@ SOS Méditerranée est constamment dans mes pensées, alors je continue de cherc
 
 Sur un coup de tête, je m’achète un Mini 6.50...rouge comme l’Ocean Viking...et décide d’en faire mon instrument d’apprentissage qui va me permettre de me challenger.
 
-![](/images/pi.one_2.jpg)
+<p style="text-align: center"><img src="/images/pi.one_2.jpg" alt=""></p>
 
 De retour à Marseille, je commence à m’entraîner dès que l’occasion se présente et je bascule dans une autre forme de navigation, sportive
 
@@ -49,9 +49,7 @@ Des rêves naissent, de l’appréhension aussi. Je me dis que je ne serais pas 
 
 Les deux mois qui ont suivi se sont enchaînés rapidement entre rendez-vous, travaux de structurations, d’estimation de budgets, et au gré de rencontres avec les copains, en soutien. Enfin, finalement, ça y est, “Tous dans le même bateau” a vu le jour !
 
-# Les objectifs
-
-<h4 style="text-align: center">Collecter les fonds pour:</h4>
+<h1 style="text-align: center">Les objectifs</h1><h4 style="text-align: center">Collecter les fonds pour:</h4>
 
 1.  Acheter d'un bateau compétitif en Janvier 2025
     
