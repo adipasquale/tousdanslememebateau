@@ -9,7 +9,7 @@ C’est avec la volonté d’associer ma pratique de la voile de compétition à
 
 L’objectif est de participer au circuit « Mini » de course au large à bord d’un voilier de 6,50 mètres qui se déroulera sur les deux prochaines années en méditerranée et en atlantique avec comme point d’orgue final la traversée de l’atlantique en solitaire en 2027.
 
-En apportant à SOS Méditerranée une présence sur les pontons de départ et d’arrivée des courses, dans les ports et évènements nautiques, le sujet du devoir de solidarité du sauvetage maritime humanitaire ne pourra plus être ignoré par le monde de la course au large.
+En apportant à **SOS Méditerranée** une présence sur les pontons de départ et d’arrivée des courses, dans les ports et évènements nautiques, le sujet du devoir de solidarité du sauvetage maritime humanitaire ne pourra plus être ignoré par le monde de la course au large.
 
 C’est un défi sportif audacieux auquel j’ai envie d’ajouter une dimension humaine qui fait sens avec mon engagement auprès de l’organisation et mon devoir de marin professionnel.
 
@@ -51,14 +51,14 @@ Les deux mois qui ont suivi se sont enchaînés rapidement entre rendez-vous, tr
 
 # Les objectifs
 
-#### Collecter les fonds pour:
+<h4 style="text-align: center">Collecter les fonds pour:</h4>
 
-1.  Achat d'un bateau compétitif en Janvier 2025
+1.  Acheter d'un bateau compétitif en Janvier 2025
     
-2.  Lancement officiel du projet en Juin 2025 à l'occasion de la MASSILIA OFFSHORE avec baptême du bateau
+2.  Lancer officiellement le projet en Juin 2025 à l'occasion de la MASSILIA OFFSHORE avec baptême du bateau
     
 3.  Qualification du circuit "hors course" de 1000 milles en juillet/août 2025
     
-4.  Participation au circuit complet de courses en Méditerranée en 2026 et qualification pour la Mini Transat 2027
+4.  Participer au circuit complet de courses en Méditerranée en 2026 et qualification pour la Mini Transat 2027
     
-5.  Participation au circuit de courses en Atlantique et prendre le départ de la Mini Transat en Septembre 2027
+5.  Participer au circuit de courses en Atlantique et prendre le départ de la Mini Transat en Septembre 2027
