@@ -3,7 +3,7 @@ eleventyNavigation:
   title: Espace donateurs
   order: 5
 ---
-<h3 style="text-align: center">La course au large est une plateforme formidable de visibilité!</h3>
+<h2 style="text-align: center">La course au large : formidable plateforme de visibilité!</h2>
 
 <p style="text-align: center"><img src="/images/mini_logo_sos_OK.png"></p>
 
@@ -15,7 +15,7 @@ Ensemble relevons ce **« grand défi »** pour faire de ce **« petit bateau
 
 Chaque donateur verra son nom inscrit sur le « roof » du bateau car on est **« Tous dans le même bateau »** !
 
-### Partenaires, affichez vous pour un projet sportif solidaire!
+### Partenaires, affichez-vous pour un projet sportif solidaire!
 
 Soutenir le projet est une occasion unique d’associer votre entreprise à une image de solidarité. Ce partenariat offre une visibilité internationale qui s’inscrit dans la durée.
 
