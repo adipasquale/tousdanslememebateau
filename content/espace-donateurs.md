@@ -5,7 +5,7 @@ eleventyNavigation:
 ---
 <h3 style="text-align: center">La course au large : formidable plateforme de visibilité!</h3><p style="text-align: center"><img src="/images/mini_logo_sos_par_ok.jpg"></p>
 
-### Donateurs, inscrivez votre nom sur le bateau!
+<h3 style="text-align: center">Donateurs, inscrivez votre nom sur le bateau!</h3>
 
 Donner sans contrepartie pour ce projet c’est s’engager dans en choisissant d’offrir de la visibilité à SOS Méditerranée.
 
@@ -13,7 +13,7 @@ Ensemble relevons ce **« grand défi »** pour faire de ce **« petit bateau
 
 Chaque donateur verra son nom inscrit sur le « roof » du bateau car on est **« Tous dans le même bateau »** !
 
-### Partenaires, affichez-vous pour un projet sportif solidaire!
+<h3 style="text-align: center">Partenaires, affichez-vous pour un projet sportif solidaire!</h3>
 
 Soutenir le projet est une occasion unique d’associer votre entreprise à une image de solidarité. Ce partenariat offre une visibilité internationale qui s’inscrit dans la durée.
 
