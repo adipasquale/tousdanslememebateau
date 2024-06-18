@@ -3,9 +3,7 @@ eleventyNavigation:
   title: Le skipper et le bateau
   order: 3
 ---
-# Le Skipper
-
-![](/images/skipper_2.jpg)
+<h1 style="text-align: center">Le Skipper</h1><p style="text-align: center"><img src="/images/skipper_2.jpg" alt=""></p>
 
 **Navigateur et humanitaire**
 
@@ -15,7 +13,7 @@ J’ai 45 ans, un esprit d'initiative et du pragmatisme. J’aime particulièrem
 
 Navigateur, bricoleur et touche à tout, j’ai fait du bateau un mode de vie.
 
-![](/images/skipper_3.jpg)
+<p style="text-align: center"><img src="/images/skipper_3.jpg" alt=""></p>
 
 “Tous dans le même bateau” est un projet sportif audacieux qui fait écho avec ma personnalité en faisant appel à de multiples compétences acquises au cours de mon parcours. Je veux mettre mes compétences de marin, d’humanitaire et de vie au service d’un projet sportif inédit qui véhicule des valeurs humaines.
 
@@ -38,7 +36,7 @@ Navigateur, bricoleur et touche à tout, j’ai fait du bateau un mode de vie.
 
 Véritable machine à avaler des milles au large, le POGO 2 est un voilier robuste et insubmersible de 6,50 mètres construit par le chantier français Pogo Structures. Ce voilier, de réputation solide et performante, à gagné toutes les courses entre 2003 et 2011. Maintenant un peu « vintage », il garde des performances honorables qui permettent de participer sereinement aux courses du circuit Mini et à la Mini transat. Le Pogo 2 est « LE » petit bateau de course au large, marin et très toilé. Il permet d'assurer la sécurité du skipper par sa grande fiabilité et sa stabilité tout en étant capable de glissades impressionnantes sur les allures portantes (vent arrière).
 
-![](/images/pogo2_2.gif)
+<p style="text-align: center"><img src="/images/pogo2_2.gif" alt=""></p>
 
 Le choix de ce support est motivé par différentes raisons :
 
@@ -51,30 +49,17 @@ Le choix de ce support est motivé par différentes raisons :
 *   Ses performances toujours d'actualité
     
 
-![](/images/pogo2_3.jpg)
+<p style="text-align: center"><img src="/images/pogo2_3.jpg" alt=""></p><h2 style="text-align: center">Caractéristiques techniques :</h2>
 
-## Caractéristiques techniques :
-
-*   Longueur de coque : 6,50 m
-    
-*   Largeur : 3 m
-    
-*   Poids lège : 1000 kg
-    
-*   Lest : 430 Kg
-    
-*   Tirant d'eau : 1,60 m
-    
-*   Catégorie B
-    
-*   Insubmersible
-    
-*   Grand voile : 25 m2
-    
-*   Génois: 18 m2
-    
-*   Solent : 12 m2
-    
-*   Spi maxi : 70 m2
-    
-*   Architecte: FINOT-CONQ et associés
+*   <p style="text-align: center">Longueur de coque : 6,50 m</p>
+*   <p style="text-align: center">Largeur : 3 m</p>
+*   <p style="text-align: center">Poids lège : 1000 kg</p>
+*   <p style="text-align: center">Lest : 430 Kg</p>
+*   <p style="text-align: center">Tirant d'eau : 1,60 m</p>
+*   <p style="text-align: center">Catégorie B</p>
+*   <p style="text-align: center">Insubmersible</p>
+*   <p style="text-align: center">Grand voile : 25 m2</p>
+*   <p style="text-align: center">Génois: 18 m2</p>
+*   <p style="text-align: center">Solent : 12 m2</p>
+*   <p style="text-align: center">Spi maxi : 70 m2</p>
+*   <p style="text-align: center">Architecte: FINOT-CONQ et associés</p>
