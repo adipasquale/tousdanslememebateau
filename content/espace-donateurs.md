@@ -3,7 +3,7 @@ eleventyNavigation:
   title: Espace donateurs et visibilité
   order: 5
 ---
-<h3 style="text-align: center">La course au large : formidable plateforme de visibilité!</h3><p style="text-align: center"><img src="/images/mini_logo_sos_par_ok.jpg"></p>
+<h3 style="text-align: center">La course au large : une formidable plateforme de visibilité!</h3><p style="text-align: center"><img src="/images/mini_logo_sos_par_ok.jpg"></p>
 
 <h3 style="text-align: center">Donateurs, inscrivez votre nom sur le bateau!</h3>
 
