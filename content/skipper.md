@@ -1,6 +1,6 @@
 ---
 eleventyNavigation:
-  title: Le skipper et le bateau
+  title: "Le skipper "
   order: 3
 ---
 <h1 style="text-align: center">Le Skipper</h1><p style="text-align: center"><img src="/images/skipper_2.jpg" alt=""></p><p style="text-align: center"><strong>Navigateur et humanitaire</strong></p>
