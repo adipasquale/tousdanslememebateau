@@ -13,13 +13,11 @@ J’ai 45 ans, un esprit d'initiative et du pragmatisme. J’aime particulièrem
 
 Compétiteur obstiné et rationnel, je me prends facilement au jeu et me donne à fond. Fort d’expériences professionnelles multiples ,d’échecs, de réussites et de nombreux voyages en solitaire, je me suis forgé une personnalité forte qui me permet d’aller au bout des choses, d’expérimenter tout en étant conscient des risques encourus et des sacrifices.
 
-Navigateur, bricoleur et touche à tout, j’ai fait du bateau un mode de vie.
-
-<p style="text-align: center"><img src="/images/skipper_3.jpg" alt=""></p>
-
 “Tous dans le même bateau” est un projet sportif audacieux qui fait écho avec ma personnalité en faisant appel à de multiples compétences acquises au cours de mon parcours.
 
 Je veux mettre ces compétences au service des valeurs humaines incarnées par SOS Méditerranée!
+
+<p style="text-align: center"><img src="/images/Skipper_ok.jpg"></p>
 
 ## Quelques dates
 
