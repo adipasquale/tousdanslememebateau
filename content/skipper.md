@@ -15,7 +15,9 @@ Navigateur, bricoleur et touche à tout, j’ai fait du bateau un mode de vie.
 
 <p style="text-align: center"><img src="/images/skipper_3.jpg" alt=""></p>
 
-“Tous dans le même bateau” est un projet sportif audacieux qui fait écho avec ma personnalité en faisant appel à de multiples compétences acquises au cours de mon parcours. Je veux mettre mes compétences de marin, d’humanitaire et de vie au service d’un projet sportif inédit qui véhicule des valeurs humaines.
+“Tous dans le même bateau” est un projet sportif audacieux qui fait écho avec ma personnalité en faisant appel à de multiples compétences acquises au cours de mon parcours.
+
+Je veux mettre ces compétences au service des valeurs humaines incarnées par SOS Méditerranée!
 
 ## Quelques dates
 
