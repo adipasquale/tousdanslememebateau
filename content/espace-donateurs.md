@@ -36,6 +36,6 @@ C’est bien plus qu’un investissement financier, c’est un engagement moral 
 
 Des supports : presse nationale, régionale, médias papiers ou internet (Voiles & Voiliers, Course au large, Adonnante, Sea sail surf, Libération, le Monde, le Figaro, VSD, La Provence et autres) mais aussi FRANCE 3 Pays de Loire, RTL, France Bleue.
 
-#### L'ensemble des prestations proposées à mes partenaires: conférences, sorties en mer représentants, soirées privées, séminaires d’entreprise, communication sur les réseaux sociaux, rencontre de vos employés, etc...
+#### L'ensemble des prestations proposées à mes partenaires: conférences, sorties en mer représentants, séminaires d’entreprise, communication sur les réseaux sociaux, rencontre de vos employés, etc...
 
 <p style="text-align: center"><img src="/images/tableau_presta_ok.jpg"></p>
