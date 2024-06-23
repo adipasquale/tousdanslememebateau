@@ -7,7 +7,7 @@ eleventyNavigation:
 
 Association à but **non lucratif** loi 1901, « Tous dans le même bateau » a pour mission de servir le projet en lui apportant un cadre juridique, administratif et financier.
 
-Elle a pour objectif de collecter les fonds nécessaire à l’achat d’un bateau compétitif, de subvenir aux dépenses de fonctionnement et d’inscription liées aux courses du circuit entre 2025 et 2027.
+Elle a pour objectif de collecter les fonds nécessaires à l’achat d’un bateau compétitif, de subvenir aux dépenses de fonctionnement et d’inscription liées aux courses du circuit entre 2025 et 2027.
 
 **Gavino Puggioni**, skipper du bateau engagé, représente l’association à titre **bénévole** lors des courses, évènements et éventuelles activités liées à des partenariats.
 
