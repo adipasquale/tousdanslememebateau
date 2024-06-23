@@ -1,6 +1,6 @@
 ---
 eleventyNavigation:
-  title: Le bateau
+  title: Le futur bateau
   order: 4
 ---
 <h1 style="text-align: center">Le bateau: POGO 2</h1>
