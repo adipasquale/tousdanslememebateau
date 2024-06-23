@@ -3,7 +3,7 @@ eleventyNavigation:
   title: Le projet
   order: 2
 ---
-# ![](/images/logo_TDMB_ok_petit.jpg) En bref
+<h1 style="text-align: center">En bref</h1>
 
 C’est avec la volonté d’associer ma pratique de la voile de compétition à des valeurs humaines en accord avec ma vision du monde, que j’ai décidé de porter un projet sportif aux couleurs de SOS Méditerranée.
 
