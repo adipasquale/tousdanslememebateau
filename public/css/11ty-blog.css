@@ -178,10 +178,19 @@ header svg {
 header .title-row {
 	display: flex;
 	gap: 1em .5em;
-	flex-wrap: wrap;
 	align-items: center;
 	width: 100%;
 	justify-content: space-between;
+}
+
+header .logo-and-title {
+	display: flex;
+	align-items: center;
+}
+
+header .title-row img {
+	max-width: 80px;
+	height: auto;
 }
 
 @media (min-width: 1048px) {
@@ -191,9 +200,9 @@ header .title-row {
 }
 
 header .title {
-	text-align: center;
 	font-size: 1em;
 	font-weight: 700;
+	color: #ea3b1d;
 }
 
 header a {
