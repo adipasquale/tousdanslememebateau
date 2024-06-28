@@ -1,6 +1,6 @@
 ---
 eleventyNavigation:
-  title: Donateurs, partenaires et visibilité
+  title: Partenaires et visibilité
   order: 5
 ---
 <h1 style="text-align: center">La course au large : une formidable plateforme de visibilité!</h1><p style="text-align: center"><img src="/images/mini_logo_sos_par_ok.jpg"></p>
