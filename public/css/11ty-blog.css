@@ -183,6 +183,12 @@ header .title-row {
 	justify-content: space-between;
 }
 
+@media (min-width: 1048px) {
+	header .title-row {
+		justify-content: center;
+	}
+}
+
 header .logo-and-title {
 	display: flex;
 	align-items: center;
