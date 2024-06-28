@@ -1,6 +1,6 @@
 ---
 eleventyNavigation:
-  title: L’association et statuts
+  title: L’association
   order: 7
 ---
 <h1 style="text-align: center">L’association</h1>
