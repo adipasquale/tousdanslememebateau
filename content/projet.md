@@ -13,7 +13,7 @@ En apportant à SOS Méditerranée une présence sur les pontons de départ et d
 
 C’est un défi sportif audacieux auquel j’ai envie d’ajouter une dimension humaine qui fait sens avec mon engagement auprès de l’organisation et mon devoir de marin professionnel.
 
-<h1 style="text-align: center">Les objectifs</h1><h4 style="text-align: center">Collecter les fonds pour:</h4>
+<h1 style="text-align: center">Les objectifs</h1>
 
 1.  Acheter d'un bateau compétitif en Janvier 2025
     
