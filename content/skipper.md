@@ -3,7 +3,7 @@ eleventyNavigation:
   title: "Le skipper "
   order: 3
 ---
-<h1 style="text-align: center">Le skipper</h1><p style="text-align: center"><img src="/images/skipper_2.jpg" alt=""></p>
+<h1 style="text-align: center">Gavino Puggioni : navigateur et humanitaire</h1><p style="text-align: center"><img src="/images/skipper_2.jpg" alt=""></p>
 
 En quelques dates
 
@@ -21,8 +21,6 @@ En quelques dates
     
 
 [Linkedin](https://www.linkedin.com/in/gavino-puggioni-507724300/)
-
-<p style="text-align: center"><strong>Navigateur et humanitaire</strong></p>
 
 Avec un parcours professionnel allant du milieu artistique au maritime en passant par l'humanitaire, j'ai toujours été ouvert sur le monde, sensible aux problématiques sociales et géopolitiques. Après ma carrière de musicien, je me suis formé à la logistique humanitaire d'urgence. Cela m'a amené à travailler sur le terrain avec Médecins Sans Frontières et en mer pour SOS Méditerranée à bord de l’Ocean Viking. Depuis ma reconversion dans le milieu de la voile professionnelle, je cherche à toujours allier mes activités avec des projets qui font sens, en accord avec mes convictions et ma vision du monde.
 
