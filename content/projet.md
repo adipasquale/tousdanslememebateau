@@ -13,6 +13,19 @@ En apportant à SOS Méditerranée une présence sur les pontons de départ et d
 
 C’est un défi sportif audacieux auquel j’ai envie d’ajouter une dimension humaine qui fait sens avec mon engagement auprès de l’organisation et mon devoir de marin professionnel.
 
+<h1 style="text-align: center">Les objectifs</h1><h4 style="text-align: center">Collecter les fonds pour:</h4>
+
+1.  Acheter d'un bateau compétitif en Janvier 2025
+    
+2.  Lancer officiellement le projet en Juin 2025 à l'occasion de la MASSILIA OFFSHORE avec baptême du bateau
+    
+3.  Qualification du circuit "hors course" de 1000 milles en juillet/août 2025
+    
+4.  Participer au circuit complet de courses en Méditerranée en 2026 et qualification pour la Mini Transat 2027
+    
+5.  Participer au circuit de courses en Atlantique et prendre le départ de la Mini Transat en Septembre 2027
+    
+
 <h1 style="text-align: center">Pourquoi&nbsp;ce projet&nbsp;?</h1>
 
 Après 2 ans de missions humanitaires au sein de Médecins sans frontières en Amérique Latine et en Afrique, je commence en 2020 à travailler pour SOS Méditerranée à bord de l’Ocean Viking. Pas simple comme premier embarquement quand la pandémie Covid19 complique lourdement la logistique et le travail de sauvetage.
@@ -47,16 +60,4 @@ J’entreprends d’écrire un projet. Accompagné d’une précieuse aide, je m
 
 Des rêves naissent, de l’appréhension aussi. Je me dis que je ne serais pas à la hauteur, que ce n’est pas viable. Pourtant, un matin où je m’apprête à naviguer sur un Class40, j’envoie sans trop y réfléchir un SMS à Sabine qui travaille chez SOS. Mon projet pourrait-il les intéresser ? “On se voit dans un café et tu me parleras de ton projet”
 
-Les deux mois qui ont suivi se sont enchaînés rapidement entre rendez-vous, travaux de structurations, d’estimation de budgets, et au gré de rencontres avec les copains, en soutien. Enfin, finalement, ça y est, “Tous dans le même bateau” a vu le jour !
-
-<h1 style="text-align: center">Les objectifs</h1><h4 style="text-align: center">Collecter les fonds pour:</h4>
-
-1.  Acheter d'un bateau compétitif en Janvier 2025
-    
-2.  Lancer officiellement le projet en Juin 2025 à l'occasion de la MASSILIA OFFSHORE avec baptême du bateau
-    
-3.  Qualification du circuit "hors course" de 1000 milles en juillet/août 2025
-    
-4.  Participer au circuit complet de courses en Méditerranée en 2026 et qualification pour la Mini Transat 2027
-    
-5.  Participer au circuit de courses en Atlantique et prendre le départ de la Mini Transat en Septembre 2027
+Les deux mois qui ont suivi se sont enchaînés rapidement entre rendez-vous, travaux de structurations, d’estimation de budgets, et au gré de rencontres avec les copains, en soutien.
