@@ -7,7 +7,7 @@ eleventyNavigation:
 
 ![](/images/skipper_2.jpg) ![](/images/mini_cv_petit_1.jpg)
 
-[Linkedin](www.linkedin.com/in/gavino-puggioni-507724300/)
+[Linkedin](https://www.linkedin.com/in/gavino-puggioni-507724300/)
 
 <p style="text-align: center"><strong>Navigateur et humanitaire</strong></p>
 
