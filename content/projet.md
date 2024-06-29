@@ -17,13 +17,15 @@ C’est un défi sportif audacieux auquel j’ai envie d’ajouter une dimension
 
 1.  Acheter d'un bateau compétitif en Janvier 2025
     
-2.  Lancer officiellement le projet en Juin 2025 à l'occasion de la MASSILIA OFFSHORE avec baptême du bateau
+2.  Préparation et participation aux courses de début de saison en Italie (Arcipelago et Roma-Barcellona)
     
-3.  Qualification du circuit "hors course" de 1000 milles en juillet/août 2025
+3.  Lancer officiellement le projet en Juin 2025 à l'occasion de la MASSILIA OFFSHORE avec baptême du bateau
     
-4.  Participer au circuit complet de courses en Méditerranée en 2026 et qualification pour la Mini Transat 2027
+4.  Qualification du circuit "hors course" de 1000 milles en juillet/août 2025
     
-5.  Participer au circuit de courses en Atlantique et prendre le départ de la Mini Transat en Septembre 2027
+5.  Participer au circuit complet de courses en Méditerranée en 2026 et qualification pour la Mini Transat 2027
+    
+6.  Participer au circuit de courses en Atlantique et prendre le départ de la Mini Transat en Septembre 2027
     
 
 <h1 style="text-align: center">Pourquoi&nbsp;ce projet&nbsp;?</h1>
