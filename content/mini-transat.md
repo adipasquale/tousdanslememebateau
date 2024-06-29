@@ -13,6 +13,4 @@ Afin de se qualifier et d’être assuré d’avoir le niveau pour traverser l�
 
 Chaque concurrent doit effectuer un certain nombre de milles en course et doit aussi prouver d’une navigation en solitaire hors course de 1000 Milles (environs 10 jours) sur un parcours imposé par l’organisation.
 
-Tout cela doit se réaliser en accord avec des règles de sécurité strictes validées par l’organisation et le skipper doit suivre des formations de survie en mer avant l’inscription.
-
 Ce circuit donne l’opportunité aux skippers de gagner en compétences, expérience et de se familiariser avec le monde de la course au large. La classe Mini, étant la plus petite classe de course au large en solitaire, jouit d’une réputation d’entraide et de bonne ambiance même si la compétition est très présente.
