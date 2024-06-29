@@ -3,9 +3,22 @@ eleventyNavigation:
   title: "Le skipper "
   order: 3
 ---
-<h1 style="text-align: center">Le skipper</h1>
+<h1 style="text-align: center">Le skipper</h1><p style="text-align: center"><img src="/images/skipper_2.jpg" alt=""></p>
 
-![](/images/skipper_2.jpg) ![](/images/mini_cv_petit_1.jpg)
+En quelques dates
+
+*   2017 : Formé aux métiers de l’humanitaire par _Bioforce (centre de formation Lyon)_
+    
+*   2017 – 2019 : Logisticien expatrié pour Médecins Sans Frontières
+    
+*   2020 – 2021 : Logisticien / Matelot pour SOS Méditerranée sur l'Ocean Viking
+    
+*   2021 – 2023 : Matelot de pont, second puis second capitaine sur navires de 6 à 32m en Méditerranée et en Atlantique
+    
+*   2023 : Diplômé d’un Capitaine 200 module voile - Propriétaire d’un Mini 6.5 Pogo 1
+    
+*   2024 : Technicien nautique pour Team Winds - Matelot puis Capitaine sur voilier de 19 m
+    
 
 [Linkedin](https://www.linkedin.com/in/gavino-puggioni-507724300/)
 
