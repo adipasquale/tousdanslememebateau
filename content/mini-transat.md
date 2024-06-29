@@ -15,4 +15,4 @@ Chaque concurrent doit effectuer un certain nombre de milles en course et doit a
 
 Ce circuit donne l’opportunité aux skippers de gagner en compétences, expérience et de se familiariser avec le monde de la course au large. La classe Mini, étant la plus petite classe de course au large en solitaire, jouit d’une réputation d’entraide et de bonne ambiance même si la compétition est très présente.
 
-<p style="text-align: center"><img src="/images/1000_milles_ok.jpeg"></p>
+<p style="text-align: center"><img src="/images/1000_milles_ok.jpeg"></p><p style="text-align: center">Parcours des "1000 milles en solitaire"</p>
