@@ -3,7 +3,11 @@ eleventyNavigation:
   title: "Le skipper "
   order: 3
 ---
-<h1 style="text-align: center">Le skipper</h1><p style="text-align: center"><img src="/images/skipper_2.jpg" alt=""></p><p style="text-align: center"><strong>Navigateur et humanitaire</strong></p>
+<h1 style="text-align: center">Le skipper</h1>
+
+![](/images/skipper_2.jpg) ![](/images/mini_cv_petit_1.jpg)
+
+<p style="text-align: center"><strong>Navigateur et humanitaire</strong></p>
 
 Avec un parcours professionnel allant du milieu artistique au maritime en passant par l'humanitaire, j'ai toujours été ouvert sur le monde, sensible aux problématiques sociales et géopolitiques. Après ma carrière de musicien, je me suis formé à la logistique humanitaire d'urgence. Cela m'a amené à travailler sur le terrain avec Médecins Sans Frontières et en mer pour SOS Méditerranée à bord de l’Ocean Viking. Depuis ma reconversion dans le milieu de la voile professionnelle, je cherche à toujours allier mes activités avec des projets qui font sens, en accord avec mes convictions et ma vision du monde.
 
@@ -15,16 +19,4 @@ Compétiteur obstiné et rationnel, je me prends facilement au jeu et me donne �
 
 Je veux mettre ces compétences au service des valeurs humaines incarnées par SOS Méditerranée!
 
-<p style="text-align: center"><img src="/images/Skipper_ok.jpg"></p><h2 style="text-align: center">En quelques dates</h2>
-
-*   2017 : Formé aux métiers de l’humanitaire par _Bioforce_
-    
-*   2017 – 2019 : Logisticien expatrié pour Médecins Sans Frontières
-    
-*   2020 – 2021 : Logisticien / Matelot pour SOS MEDITERRANEE sur l'Ocean Viking
-    
-*   2021 – 2023 : Matelot de pont, second puis second capitaine sur navires de 6 à 32m en Méditerranée et en Atlantique
-    
-*   2023 : Diplômé d’un Capitaine 200 module voile - Propriétaire d’un Mini 6.5 Pogo 1
-    
-*   2024 : Technicien nautique pour Team Winds - Matelot puis Capitaine sur voilier de 19 m
+<p style="text-align: center"><img src="/images/Skipper_ok.jpg"></p>
