@@ -3,7 +3,7 @@ eleventyNavigation:
   title: La Mini Transat
   order: 4
 ---
-<h1 style="text-align: center">La Mini Transat</h1>
+<h1 style="text-align: center">La Mini Transat</h1><p style="text-align: center"><img src="/images/map_ok.png"></p>
 
 En 1977, le journaliste Bob Salomon lance la Mini Transat, une course transatlantique en solitaire et sans assistance à bord de voiliers de 6,50 mètres. Organisée tous les deux ans, le départ sera donné en septembre 2027 depuis les pontons vendéens du port des Sables d'Olonne. Elle s'effectue en deux étapes au départ de la France avec une escale de trois semaines aux Canaries avant de rejoindre les Antilles. Sur la Mini Transat, la communication avec la terre n'est pas possible. Les participants n'ont ni ordinateur, ni liaison satellite ... Le seul lien avec la terre est le bulletin météo quotidien émis sur la radio BLU par la direction de course. Les partenaires et le public peuvent néanmoins suivre la course en direct à travers des applications de "tracking" et le site de l'organisation. Cette course est le point d'orgue de deux ans de participation au circuit Mini en Méditerranée et en Atlantique.
 
