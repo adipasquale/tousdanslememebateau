@@ -14,5 +14,3 @@ Elle a pour objectif de collecter les fonds nécessaires à l’achat d’un bat
 Une partie des dons collectés sera dirigée directement à SOS Méditerranée selon les conditions définies par la convention de partenariat établie entre les deux structures.
 
 « Tous dans le même bateau » s’engage, à la clôture du projet ou en cas de cessation prématurée de celui-ci, à reverser à SOS Méditerranée tous les dons collectés ou provenant de la vente des biens lui appartenant (bateau, matériel divers). L'association publiera annuellement un compte rendu financier consultable par tous.
-
-Les statuts de l’association sont disponibles ci-dessous.
