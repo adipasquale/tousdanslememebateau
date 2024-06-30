@@ -31,3 +31,5 @@ Compétiteur obstiné et rationnel, je me prends facilement au jeu et me donne �
 Je veux mettre ces compétences au service des valeurs humaines incarnées par SOS Méditerranée!
 
 ![](/images/Skipper_ok.jpg)![](/images/Gavino_msf_1.jpeg)
+
+![](/images/gavino_sos_3.jpeg)
