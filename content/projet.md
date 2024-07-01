@@ -52,7 +52,7 @@ SOS Méditerranée est constamment dans mes pensées, alors je continue de cherc
 
 Sur un coup de tête, je m’achète un Mini 6.50...rouge comme l’Ocean Viking...et décide d’en faire mon instrument d’apprentissage qui va me permettre de me challenger.
 
-<p style="text-align: center"><img src="/images/pi.one_2.jpg" alt=""></p>
+<p style="text-align: center"><img src="/images/pi.one_2.jpg" alt=""><img src="/images/pi_one_marseille.jpg"></p>
 
 De retour à Marseille, je commence à m’entraîner dès que l’occasion se présente et je bascule dans une autre forme de navigation, sportive
 
