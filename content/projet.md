@@ -60,6 +60,6 @@ Mais comment donc aboutir à du concret ?
 
 J’entreprends d’écrire un projet. Accompagné d’une précieuse aide, je mets en forme, j’organise, je structure et un dossier de course au large en solitaire aux couleurs de SOS Méditerranée prend forme et surtout, tout son sens !
 
-Des rêves naissent, de l’appréhension aussi. Je me dis que je ne serais pas à la hauteur, que ce n’est pas viable. Pourtant, un matin où je m’apprête à naviguer sur un Class40, j’envoie sans trop y réfléchir un SMS à Sabine qui travaille chez SOS. Mon projet pourrait-il les intéresser ? “On se voit dans un café et tu me parleras de ton projet”
+Des rêves naissent, de l’appréhension aussi. Je me dis que je ne serais pas à la hauteur, que ce n’est pas viable. Pourtant, un matin où je m’apprête à naviguer sur un Class40, j’envoie sans trop y réfléchir un SMS à Sabine qui travaille chez SOS. Mon projet pourrait-il les intéresser ? “On se voit dans un café et tu me parleras de ton projet"!
 
 Les deux mois qui ont suivi se sont enchaînés rapidement entre rendez-vous, travaux de structurations, d’estimation de budgets, et au gré de rencontres avec les copains, en soutien.
