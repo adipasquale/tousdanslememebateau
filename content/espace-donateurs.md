@@ -3,7 +3,7 @@ eleventyNavigation:
   title: Partenaires et visibilité
   order: 5
 ---
-<h1 style="text-align: center">La course au large : une formidable plateforme de visibilité!</h1><p style="text-align: center"></p>
+<h1 style="text-align: center">La course au large : une formidable plateforme de visibilité!</h1><p style="text-align: center"><img src="/images/covering_ok.png"></p>
 
 # Donateurs, inscrivez votre nom sur le bateau!
 
