@@ -27,3 +27,5 @@ J’ai 45 ans, un esprit d'initiative et du pragmatisme. J’aime particulièrem
 Compétiteur obstiné et rationnel, je me prends facilement au jeu et me donne à fond. Fort d’expériences professionnelles multiples ,d’échecs, de réussites et de nombreux voyages en solitaire, je me suis forgé une personnalité forte qui me permet d’aller au bout des choses, d’expérimenter tout en étant conscient des risques encourus et des sacrifices.
 
 Je veux mettre mes compétences au service d'un projet sportif qui véhicule les valeurs humaines incarnées par SOS Méditerranée!
+
+<p style="text-align: center"><img src="/images/Gavino_sos_2.jpeg"></p>
