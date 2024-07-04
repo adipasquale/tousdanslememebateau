@@ -28,4 +28,4 @@ Compétiteur obstiné et rationnel, je me prends facilement au jeu et me donne �
 
 Je veux mettre mes compétences au service d'un projet sportif qui véhicule les valeurs humaines incarnées par SOS Méditerranée!
 
-<p style="text-align: center"><img src="/images/Gavino_sos_2.jpeg"></p>
+<p style="text-align: center"><img src="/images/Gavino_sos_2_ok.png"></p>
