@@ -3,7 +3,7 @@ eleventyNavigation:
   title: Partenaires et visibilité
   order: 5
 ---
-<h2 style="text-align: center">La course au large : une formidable plateforme de visibilité!</h2><p style="text-align: center"><img src="/images/covering_ok.png"></p><h2 style="text-align: center">Donateurs, inscrivez votre nom sur le bateau!</h2>
+<h2 style="text-align: center">La course au large : une formidable plateforme de visibilité!</h2><p style="text-align: center"><img src="/images/covering_ok_taille.png"></p><h2 style="text-align: center">Donateurs, inscrivez votre nom sur le bateau!</h2>
 
 Donner sans contrepartie pour ce projet c’est donner la chance à ce bateau d'exister et d'aller défendre nos valeurs humaines et de solidarité sur les courses en choisissant d’offrir de la visibilité à SOS Méditerranée.
 
