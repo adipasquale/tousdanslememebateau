@@ -3,7 +3,7 @@ eleventyNavigation:
   title: "Le skipper "
   order: 3
 ---
-<h1 style="text-align: center">Gavino Puggioni</h1><h2 style="text-align: center">Navigateur et Humanitaire</h2>
+<h1 style="text-align: center">Gavino Puggioni</h1><h2 style="text-align: center">Navigateur et Humanitaire</h2><p style="text-align: center"><img src="/images/Skipper_ok_final.png"></p>
 
 *   2017 : Formé aux métiers de l’humanitaire par _Bioforce (centre de formation Lyon)_
     
