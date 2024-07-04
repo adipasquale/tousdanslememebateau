@@ -5,11 +5,11 @@ eleventyNavigation:
 ---
 <h1 style="text-align: center">En bref</h1>
 
-C’est avec la volonté d’associer ma pratique de la voile de compétition à des valeurs humaines que j’ai décidé de porter un projet sportif aux couleurs de SOS Méditerranée.
+C’est avec la volonté d’associer ma pratique de la voile de compétition à des valeurs humaines que j’ai décidé de porter un projet sportif en soutien à SOS Méditerranée.
 
-L’objectif est de participer au circuit « Mini » de course au large à bord d’un voilier de 6,50 mètres. Il se déroulera sur les deux prochaines années en méditerranée et en atlantique avec comme point d’orgue la traversée de l’atlantique en solitaire en 2027.
+L’objectif est de participer au circuit « Mini » de course au large à bord d’un voilier de 6,50 mètres. Celui-ci se déroulera sur les deux prochaines années en méditerranée et en atlantique avec comme point d’orgue la traversée de l’atlantique en solitaire en 2027.
 
-En apportant à SOS Méditerranée une présence sur les pontons de départ et d’arrivée des courses ainsi que dans les ports et évènements nautiques, le sujet du sauvetage maritime humanitaire ne pourra plus être ignoré par le monde de la course au large.
+En apportant à SOS Méditerranée une visibilité sur les pontons de départ et d’arrivée des courses ainsi que dans les ports et évènements nautiques, le sujet du sauvetage maritime humanitaire ne pourra plus être ignoré par le monde de la course au large.
 
 C’est un défi sportif audacieux qui fait sens avec mon engagement auprès de l’organisation et mon devoir de marin professionnel.
 
