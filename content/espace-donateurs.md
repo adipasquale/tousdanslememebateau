@@ -7,7 +7,7 @@ eleventyNavigation:
 
 * * *
 
-<h3 style="text-align: center">Inscrivez Votre Nom sur le Bateau et Soutenez Notre Cause!</h3>
+<h3 style="text-align: center">Inscrivez votre nom sur le bateau et soutenez notre cause!</h3>
 
 Votre contribution à ce projet est bien plus qu'un simple don : elle donne vie à ce bateau et lui permet de porter haut nos valeurs d'humanité et de solidarité lors des courses. En choisissant de soutenir SOS Méditerranée, vous offrez une visibilité essentielle à notre mission.
 
