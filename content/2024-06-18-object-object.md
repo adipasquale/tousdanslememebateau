@@ -3,7 +3,9 @@ eleventyNavigation:
   title: Le futur bateau
   order: 4
 ---
-<h1 style="text-align: center">Le POGO 2</h1><p style="text-align: center"><img src="/images/pogo2_3.jpg"></p><p style="text-align: justify">Pour acquérir le support adapté à ce projet plusieurs critères rentrent en compte et des choix ont du être faits pour trouver la monture idéale autant en termes de budget que de performances.</p><p style="text-align: center">Le choix du POGO 2 est motivé par:</p>
+<h1 style="text-align: center">Le POGO 2</h1>
+
+<p style="text-align: justify">Pour acquérir le support adapté à ce projet plusieurs critères rentrent en compte et des choix ont du être faits pour trouver la monture idéale autant en termes de budget que de performances.</p><p style="text-align: center">Le choix du POGO 2 est motivé par:</p>
 
 *   Son coût d'achat raisonnable (environ 30K)
     
