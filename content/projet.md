@@ -19,11 +19,36 @@ En offrant une visibilité précieuse à SOS Méditerranée sur les pontons de d
 
 Ce défi sportif audacieux reflète non seulement mon engagement envers cette noble cause, mais aussi mon dévouement en tant que marin professionnel. Ensemble, faisons en sorte que le monde de la course au large ne puisse plus ignorer la question vitale du sauvetage en mer.
 
-<h1 style="text-align: center">Les objectifs</h1>
+<h3 style="text-align: center">Les Objectifs de Notre Projet</h3>
 
-1.  <p style="text-align: justify">Acheter d'un bateau compétitif en Janvier 2025</p>
-2.  <p style="text-align: justify">Préparation et participation aux courses de début de saison en Italie (Arcipelago et Roma-Barcellona)</p>
-3.  <p style="text-align: justify">Lancer officiellement le projet en Juin 2025 à l'occasion de la MASSILIA OFFSHORE avec baptême du bateau</p>
-4.  <p style="text-align: justify">Qualification du circuit "hors course" de 1000 milles en juillet/août 2025</p>
-5.  <p style="text-align: justify">Participer au circuit complet de courses en Méditerranée en 2026 et qualification pour la Mini Transat 2027</p>
-6.  <p style="text-align: justify">Participer au circuit de courses en Atlantique et prendre le départ de la Mini Transat en Septembre 2027</p>
+**Janvier 2025: Acquisition du Bateau**
+
+*   Acheter un bateau compétitif adapté à la course au large.
+    
+
+**Début de Saison 2025: Préparation et Premières Courses**
+
+*   Préparation intensive et participation aux premières courses de la saison en Italie : Arcipelago et Roma-Barcellona.
+    
+
+**Juin 2025: Lancement Officiel du Projet**
+
+*   Lancer officiellement le projet lors de la MASSILIA OFFSHORE, avec un baptême du bateau.
+    
+
+**Juillet/Août 2025: Qualification Hors Course**
+
+*   Réaliser la qualification "hors course" de 1000 milles.
+    
+
+**Année 2026: Participation aux Courses Méditerranéennes**
+
+*   Participer au circuit complet des courses en Méditerranée et obtenir la qualification pour la Mini Transat 2027.
+    
+
+**Septembre 2027: Mini Transat**
+
+*   Participer aux courses en Atlantique et prendre le départ de la Mini Transat en septembre 2027.
+    
+
+Rejoignez-nous dans cette aventure passionnante et soutenez notre projet pour promouvoir les valeurs de solidarité et d'humanité en mer !
