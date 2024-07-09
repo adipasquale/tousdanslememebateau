@@ -3,7 +3,23 @@ eleventyNavigation:
   title: Le projet
   order: 2
 ---
-<h1 style="text-align: center">En bref</h1><p style="text-align: justify">C’est avec la volonté d’associer ma pratique de la voile de compétition à des valeurs humaines que j’ai décidé de porter un projet sportif en soutien à SOS Méditerranée.</p><p style="text-align: justify">L’objectif est de participer au circuit « Mini » de course au large à bord d’un voilier de 6,50 mètres. Celui-ci se déroulera sur les deux prochaines années en méditerranée et en atlantique avec comme point d’orgue la traversée de l’atlantique en solitaire en 2027.</p><p style="text-align: justify">En apportant à SOS Méditerranée une visibilité sur les pontons de départ et d’arrivée des courses ainsi que dans les ports et évènements nautiques, le sujet du sauvetage maritime humanitaire ne pourra plus être ignoré par le monde de la course au large.</p><p style="text-align: justify">C’est un défi sportif audacieux qui fait sens avec mon engagement auprès de l’organisation et mon devoir de marin professionnel.</p><h1 style="text-align: center">Les objectifs</h1>
+<h3 style="text-align: center">Un Projet Sportif pour soutenir SOS Méditerranée</h3>
+
+J'ai décidé de lier ma passion pour la voile de compétition à des valeurs humanitaires en soutenant SOS Méditerranée à travers un projet unique.
+
+**Participer au circuit « Mini » de course au large**
+
+À bord de mon voilier de 6,50 mètres, je prendrai part à des compétitions sur les deux prochaines années en Méditerranée et en Atlantique, avec comme apogée la traversée de l'Atlantique en solitaire en 2027.
+
+**Pourquoi SOS Méditerranée ?**
+
+En offrant une visibilité précieuse à SOS Méditerranée sur les pontons de départ et d'arrivée, ainsi que dans les ports et événements nautiques, nous mettrons en lumière l'importance cruciale du sauvetage maritime humanitaire.
+
+**Rejoignez-nous dans cette aventure !**
+
+Ce défi sportif audacieux reflète non seulement mon engagement envers cette noble cause, mais aussi mon dévouement en tant que marin professionnel. Ensemble, faisons en sorte que le monde de la course au large ne puisse plus ignorer la question vitale du sauvetage en mer.
+
+<h1 style="text-align: center">Les objectifs</h1>
 
 1.  <p style="text-align: justify">Acheter d'un bateau compétitif en Janvier 2025</p>
 2.  <p style="text-align: justify">Préparation et participation aux courses de début de saison en Italie (Arcipelago et Roma-Barcellona)</p>
