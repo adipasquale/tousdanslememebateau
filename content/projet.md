@@ -19,7 +19,7 @@ En offrant une visibilité précieuse à SOS Méditerranée sur les pontons de d
 
 Ce défi sportif audacieux reflète non seulement mon engagement envers cette noble cause, mais aussi mon dévouement en tant que marin professionnel. Ensemble, faisons en sorte que le monde de la course au large ne puisse plus ignorer la question vitale du sauvetage en mer.
 
-<h3 style="text-align: center">Les Objectifs de Notre Projet</h3>
+<h3 style="text-align: center">Les objectifs de notre projet</h3>
 
 **Janvier 2025: Acquisition du Bateau**
 
